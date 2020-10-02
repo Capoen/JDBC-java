@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/arthurcapoen/Documents/JavaCourse/Projects/JDBC-java/.metadata/.plugins/org.eclipse.jdt.core
+1956855528.index
+646308851.index

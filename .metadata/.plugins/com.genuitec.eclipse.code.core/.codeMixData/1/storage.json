@@ -1,0 +1,14 @@
+{
+    "telemetry.machineId": "8b035c8b881e746f3fc9021d03c6537f5f6cd4249ac3f70c9e566d194f9ec20f",
+    "openedPathsList": {
+        "workspaces3": [
+            {
+                "id": "480ec61879c2b00cd117c11e3265cb30",
+                "configURIPath": "file:///home/arthurcapoen/Documents/JavaCourse/Projects/JDBC-java/.metadata/codemix.code-workspace"
+            }
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e"
+}
